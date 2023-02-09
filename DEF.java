@@ -1,4 +1,4 @@
-class DEF {
+class Def {
 Static void add () {
 int a=10;
 int b=20;
